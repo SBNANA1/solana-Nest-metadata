@@ -1,11 +1,35 @@
 {
-  "name": "Solana Nest",
-  "symbol": "SNEST",
-  "uri": "https://www.imghippo.com/i/orK4W1727163636.png",
-  "seller_fee_basis_points": 500,
-  "creators": [{
-    "address": "ZYJmM98GnWFRmjnubgB3pt5nMsw1qNXqSZviLaHb2K1",
-    "verified": true,
-    "share": 100
-  }]
+    "name": "Solana Nest",
+    "symbol": "SNEST",
+   "uri": "https://raw.githubusercontent.com/SBNANA1/solana-Nest-metadata/main/metadata.json",
+
+    "description": "The coziest token on Solana! Build your future with staking, NFTs, & a nest full of rewards",
+    "image": "https://www.imghippo.com/i/orK4W1727163636.png ", 
+    "attributes": [
+        {
+            "trait_type": "Project Stage",
+            "value": "Presale"
+        },
+        {
+            "trait_type": "Utility",
+            "value": "DeFi"
+        }
+    ],
+    "seller_fee_basis_points": 500,  // 5% fee on secondary market sales
+    "external_url": "https://snests.wordpress.com/",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.imghippo.com/i/orK4W1727163636.png ", 
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "ZYJmM98GnWFRmjnubgB3pt5nMsw1qNXqSZviLaHb2K1",
+                "share": 100
+            }
+        ]
+    }
 }
