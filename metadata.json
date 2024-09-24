@@ -15,7 +15,7 @@
             "value": "DeFi"
         }
     ],
-    "seller_fee_basis_points": 500,  // 5% fee on secondary market sales
+    "seller_fee_basis_points": 500,
     "external_url": "https://snests.wordpress.com/",
     "properties": {
         "files": [
